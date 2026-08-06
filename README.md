@@ -2,7 +2,7 @@
 
 # Mohamed Kotb
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Developer;Competitive+Programmer;c+++programing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+.NET+Developer;Competitive+Programmer;cpp+programing" alt="Typing SVG" />
 
 <br>
 
@@ -19,10 +19,11 @@
 
 ### About
 
-I'm a Computer Science student and solo developer. My main track is **Full Stack .NET** — building real applications, not just following tutorials — alongside applied work in **cybersecurity and bug bounty tooling**. Before any of that, I spent years in **C++ and competitive programming**, which is still how I approach every problem: understand it fully before writing a line of code.
+I'm a Computer Science student passionate about **Full Stack .NET Development** and **Automation Engineering**. I focus on building modern, production-ready web applications, designing efficient workflows, and creating developer tools that improve productivity.
 
-I don't publish side projects to pad a profile. Everything I link below is either in daily use or built to be used by other people.
+With a strong foundation in **C++** and **problem solving**, I believe that writing good software starts with understanding the problem—not just writing code.
 
+My GitHub is a collection of real projects, experiments, and tools that reflect my learning journey and the technologies I use every day.
 ---
 
 ### Current Stack
