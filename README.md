@@ -38,9 +38,11 @@ My GitHub is a collection of real projects, experiments, and tools that reflect 
 
 | Category | Focus |
 |---|---|
-| **Backend** | .NET · ASP.NET Core · Entity Framework |
-| **Frontend** | React |
+| **Backend** | C# · .NET · ASP.NET Core · EF core |
+| **Frontend** | React · HTML · CSS · JavaScript |
+| **Database** | SQL Server · MySQL |
 | **Automation** | n8n |
+| **Tools** | Git · Docker · VS Code |
 
 ---
 
