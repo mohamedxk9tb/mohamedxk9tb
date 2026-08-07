@@ -24,6 +24,7 @@ I'm a Computer Science student passionate about **Full Stack .NET Development** 
 With a strong foundation in **C++** and **problem solving**, I believe that writing good software starts with understanding the problem—not just writing code.
 
 My GitHub is a collection of real projects, experiments, and tools that reflect my learning journey and the technologies I use every day.
+
 ---
 
 ### Current Stack
