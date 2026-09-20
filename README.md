@@ -60,6 +60,16 @@ Solving under time pressure is where the C++ fundamentals actually get tested: n
 <summary><b>▶ Featured Projects (click to expand/collapse)</b></summary>
 <br>
 
+**[IronCore Gym Management System](https://github.com/mohamedxk9tb/IronCore-Gym-Management-System)** — a full-stack gym management web application built with ASP.NET Core MVC, Entity Framework Core, and SQL Server. Manages members, subscriptions, payments, classes, trainers, bookings, workout plans, and administrative operations through role-based workflows.
+
+- Built with **C#, ASP.NET Core MVC, EF Core, SQL Server, and ASP.NET Core Identity**, with role-based access for Admins, Trainers, and Members
+- Implemented complete workflows for **subscriptions, payments, class bookings, trainer management, workout plans, attendance, and member progress**
+- Added an **AI-powered chat feature**, dashboards, reporting, validation, and role-specific functionality
+- Designed a responsive **Bootstrap 5** interface with a custom dark athletic theme and reusable UI components
+- Developed as a **3-person team project** using Git/GitHub feature branches and collaborative development workflows
+
+  <br>
+
 **[BladeRecon](https://github.com/mohamedxk9tb/BladeRecon)** — a lightweight CLI reconnaissance framework for bug bounty and web pentesting. Takes a target from subdomain discovery through probing, JS/endpoint extraction, secret detection, Nuclei scanning, and a full HTML/Markdown report — 11 chained modules in one workflow.
 
 - ~13,000 lines of Python across 16 modules, with a dedicated test file per module
